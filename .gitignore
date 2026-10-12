@@ -1,0 +1,13 @@
+# Binarios compilados
+*.exe
+*.o
+sistemaBicicletasSprint1
+verifMemoria
+
+# Configuración de IDE / herramientas
+.idea/
+.vscode/
+.junie/
+
+# Temporales
+*.tmp
